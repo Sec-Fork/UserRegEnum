@@ -18,6 +18,12 @@ Options:
 
 `-d`, `-dc`, `-o` 这三个参数时必须的.
 
+![image](https://github.com/TryA9ain/UserRegEnum/blob/master/Pictures/Xnip2023-03-31_12-50-08.png)
+
+结果会保存在当前 `.exe` 同级目录下.
+
+![image](https://github.com/TryA9ain/UserRegEnum/blob/master/Pictures/Xnip2023-03-31_12-57-56.png)
+
 **域内计算机越多, 程序执行时间越长, 目前已知 2w 余台机器的域查询耗时 7 分钟左右.**
 
 ## 原理
